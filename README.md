@@ -29,7 +29,7 @@
 
 ![Repositories](https://img.shields.io/badge/Repositories-Public-brightgreen?style=for-the-badge&logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-Active-orange?style=for-the-badge&logo=git)
-![Metrics](https://metrics.lecoq.io/shvhiiien?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Africa%2FCairo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shvhiiien&theme=dark)](https://git.io/streak-stats)
 
 ---
 
