@@ -25,12 +25,14 @@
 ---
 
 ### 📊 GitHub Stats
+[Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=shvhiiien&show_icons=true&theme=dracula)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=shvhiiien&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shvhiiien&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dracula)
 
 ---
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shahien-383599431)
+
+![Views](https://komarev.com/ghpvc/?username=shvhiiien&color=blue)
