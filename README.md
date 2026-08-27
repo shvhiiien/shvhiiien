@@ -24,13 +24,12 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shvhiiien&show_icons=true&theme=dark" alt="Ahmed's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+### 📊 Quick Stats
+
+![Repositories](https://img.shields.io/badge/Repositories-Public-brightgreen?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-Active-orange?style=for-the-badge&logo=git)
+
 
 ---
 
