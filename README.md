@@ -6,7 +6,7 @@
 
 * 💻 **Software Engineer**
 * 🎯 **Degree:** Bachelor in Information Technology
-* 💡 Passionate about software engineering, frontend development, and building interactive user experiences.
+* 💡 Passionate about software engineering, frontend development,UI UX designing and building interactive user experiences.
 
 ---
 
@@ -33,4 +33,4 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/ahmed-shahien-383599431?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shahien-383599431)
