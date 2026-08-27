@@ -25,9 +25,12 @@
 ---
 
 ### 📊 GitHub Stats
-[Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=shvhiiien&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shvhiiien&show_icons=true&theme=dark" alt="Ahmed's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
