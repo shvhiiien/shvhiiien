@@ -37,4 +37,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shahien-383599431)
 
-![Views](https://komarev.com/ghpvc/?username=shvhiiien&color=blue)
+https<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shvhiiien&color=007acc&style=flat-square" alt="Profile Views" />
+</p>
