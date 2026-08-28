@@ -6,7 +6,7 @@
 
 * 💻 **Software Engineer**
 * 🎯 **Degree:** Bachelor in Information Technology
-* 💡 Passionate about software engineering, frontend development,UI UX designing and building interactive user experiences.
+* 💡 Passionate about software engineering, frontend development, UI & UX designing and building interactive user experiences.
 
 ---
 
