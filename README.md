@@ -1,5 +1,5 @@
 # Hi there 👋, I'm
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,10,12&height=220&section=header&text=Ahmed%20Shaheen&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=75&descAlign=50&fontSize=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,10,12&height=220&section=header&text=Ahmed%20Shaheen&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=75&descAlign=50&fontSize=100&animation=twinkling)
 
 ---
 
@@ -40,11 +40,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DWUwb3Lyr/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201019420705)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shvhiiien&color=007acc&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
+
 <br/>
 
 <p align="center">
