@@ -68,10 +68,10 @@
 
 ### 📊 Most Used Languages
 
-![Languages Meter](https://github-readme-stats.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dark)
 
 ---
 
-### 🧱 3D Contribution Graph
+### 🧱 Snake Contribution Graph
 
-![Ahmed's 3D Contribution Graph](https://github-readme-3d-contrib.herokuapp.com/s?username=shvhiiien&theme=dark)
+![Snake animation](https://raw.githubusercontent.com/shvhiiien/shvhiiien/output/github-contribution-grid-snake.svg)
