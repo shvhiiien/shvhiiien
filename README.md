@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Ahmed Shahien
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahmed%20Shaheen&fontSize=70&animation=fadeIn)
+# Hi there 👋, I'm
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahmed%20Shahien&fontSize=70&animation=fadeIn)
 
 ---
 
