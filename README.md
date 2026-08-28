@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,10,12&height=220&section=header&text=Ahmed%20Shaheen&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=75&descAlign=50&fontSize=50&animation=twinkling)
+
 # Hi there 👋, I'm
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahmed%20Shahien&fontSize=70&animation=fadeIn)
 
