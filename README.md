@@ -69,3 +69,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shvhiiien&color=007acc&style=flat-square" alt="Profile Views" />
 </p>
+
+### 🧱 3D Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/007acc/shvhiiien" alt="Ahmed's GitHub Contributions" width="100%" />
+</p>
