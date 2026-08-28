@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Ahmed Shahien
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahmed%20Shaheen&fontSize=70&animation=fadeIn)
 
 ---
 
@@ -42,3 +43,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shvhiiien&color=007acc&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+### 💡 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
