@@ -1,7 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,10,12&height=220&section=header&text=Ahmed%20Shaheen&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=75&descAlign=50&fontSize=50&animation=twinkling)
-
 # Hi there 👋, I'm
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ahmed%20Shahien&fontSize=70&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,10,12&height=220&section=header&text=Ahmed%20Shaheen&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=75&descAlign=50&fontSize=50&animation=twinkling)
 
 ---
 
@@ -47,7 +45,25 @@
 </p>
 
 ---
+<br/>
 
-### 💡 Quote of the Day
+<p align="center">
+  <a href="#top">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,10,12&height=180&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=35&animation=twinkling" width="100%" />
+  </a>
+</p>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  📖 <i>"وَقُل رَّبِّ زِدْنِي عِلْمًا"</i>
+</p>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-⬆%EF%B8%8F-007acc?style=for-the-badge" alt="Back to Top" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shvhiiien&color=007acc&style=flat-square" alt="Profile Views" />
+</p>
+
