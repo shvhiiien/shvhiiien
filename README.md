@@ -72,6 +72,6 @@
 
 ---
 
-### 🧱 3D Contribution Graph
+### 📊 Activity Graph
 
-![3D Graph](https://pixe.la/v1/users/shvhiiien/graphs/github-stats?mode=circle)
+![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shvhiiien&theme=react-dark)
