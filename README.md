@@ -34,6 +34,12 @@
 
 ---
 
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dark)
+
+---
+
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shahien-383599431)
@@ -63,15 +69,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shvhiiien&color=007acc&style=flat-square" alt="Profile Views" />
 </p>
-
----
-
-### 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shvhiiien&layout=compact&theme=dark)
-
----
-
-### 📊 Activity Graph
-
-![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shvhiiien&theme=react-dark)
