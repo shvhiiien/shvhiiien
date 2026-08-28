@@ -72,6 +72,6 @@
 
 ---
 
-### 🧱 Snake Contribution Graph
+### 🧱 3D Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/shvhiiien/shvhiiien/output/github-contribution-grid-snake.svg)
+![3D Graph](https://pixe.la/v1/users/shvhiiien/graphs/github-stats?mode=circle)
