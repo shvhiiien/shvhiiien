@@ -48,6 +48,14 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shvhiiien/shvhiiien/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
 <br/>
 
 <p align="center">
