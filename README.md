@@ -56,6 +56,16 @@
 
 ---
 
+### ♟️ Play Chess with Me!
+
+<p align="center">
+  <a href="https://github.com/shvhiiien/shvhiiien/issues/new?title=chess%7Cmove">
+    <img src="https://readme-chess.vercel.app/api/game?user=shvhiiien" alt="Chess Game" />
+  </a>
+</p>
+
+---
+
 <br/>
 
 <p align="center">
