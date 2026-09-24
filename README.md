@@ -56,12 +56,10 @@
 
 ---
 
-### 🕹️ Retro Snake Game
+### 🕹️ Gamer Profile Stats
 
 <p align="center">
-  <a href="https://github.com/shvhiiien/shvhiiien">
-    <img src="https://readme-snake-game.vercel.app/api?username=shvhiiien&theme=dark" alt="Play Snake Game" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shvhiiien&show_icons=true&theme=radium&rank_icon=github" alt="Arcade Stats" />
 </p>
 
 ---
