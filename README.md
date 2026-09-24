@@ -56,6 +56,16 @@
 
 ---
 
+### 🎮 Play Tic-Tac-Toe
+
+<p align="center">
+  <a href="https://github.com/shvhiiien/shvhiiien">
+    <img src="https://readme-tictactoe.vercel.app/api?username=shvhiiien&theme=dark" alt="Tic Tac Toe Game" />
+  </a>
+</p>
+
+---
+
 <br/>
 
 <p align="center">
