@@ -64,6 +64,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shvhiiien&theme=darkhub&column=4&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 <br/>
 
 <p align="center">
