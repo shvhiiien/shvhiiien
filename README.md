@@ -56,14 +56,6 @@
 
 ---
 
-### 🕹️ Gamer Profile Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shvhiiien&show_icons=true&theme=radium&rank_icon=github" alt="Arcade Stats" />
-</p>
-
----
-
 <br/>
 
 <p align="center">
