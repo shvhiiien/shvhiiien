@@ -56,11 +56,11 @@
 
 ---
 
-### 🎮 Play Tic-Tac-Toe
+### 🕹️ Retro Snake Game
 
 <p align="center">
   <a href="https://github.com/shvhiiien/shvhiiien">
-    <img src="https://readme-tictactoe.vercel.app/api?username=shvhiiien&theme=dark" alt="Tic Tac Toe Game" />
+    <img src="https://readme-snake-game.vercel.app/api?username=shvhiiien&theme=dark" alt="Play Snake Game" />
   </a>
 </p>
 
